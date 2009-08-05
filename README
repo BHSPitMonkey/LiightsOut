@@ -1,0 +1,46 @@
+Liights Out!
+Homebrew game for the Wii
+
+by Stephen Eisenhauer (BHSPitMonkey) 
+mail@stepheneisenhauer.com
+
+
+COMPILING
+
+In order to compile this software, you must have
+
+ * DevkitPPC
+ * libogc
+ * libwiisprite
+
+properly installed. See their respective sites and documentation for help.
+
+To compile, simply run the 'make' command in this directory.
+
+Further information about Wii homebrew development is available at http://wiibrew.org.
+
+
+RUNNING
+
+To run this software after compilation:
+ * Copy the contents of this directory into /apps/liightsout/ on your SD card.
+    * Note that this location is hard-coded into the program, so you MUST use this exact location. Sorry.
+ * Launch the game, "Liights Out!", using the Homebrew Channel.
+ 
+(The 'source' and 'build' directories do not need to be copied to the SD card.)
+
+You should have a directory hierarchy on your SD card similar to this:
+
+/apps/
+/apps/liightsout/
+/apps/liightsout/data/
+/apps/liightsout/gfx/
+/apps/liightsout/source/
+
+
+LINKS
+
+For more information about Liights Out!, check out these links:
+
+ * Liights Out page on Wiibrew.org	http://wiibrew.org/wiki/LiightsOut
+ * Developer's home page		http://stepheneisenhauer.com

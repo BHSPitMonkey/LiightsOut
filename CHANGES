@@ -1,0 +1,20 @@
+v1.0 beta 5
+
+    * Fixed accidental logging, which caused the main menu to lag in beta 4
+    * Fixed broken-looking background image in beta 4 
+
+v1.0 beta 4
+
+    * Added some (rough) instruction pages
+    * Improved menu navigation
+    * Puzzles are now loaded from /apps/liightsout/data/puzzles.txt (you can create your own puzzles by editing this file!)
+    * Added "Free Mode", allows you to freely toggle single lights. Useful for designing your own levels. No "save" function yet. Enable by pressing the Two (or X) button.
+    * Probably some other changes I can't think of at the moment. :) 
+
+v1.0 beta 3
+
+    * Not released 
+
+v1.0 beta 2
+
+    * First public beta 

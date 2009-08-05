@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Liights Out!</name>
+  <coder>BHSPitMonkey</coder>
+  <version>1.0 beta 5</version>
+  <release_date>200902</release_date>
+  <short_description>"Lights Out" game for the Wii.</short_description>
+  <long_description>
+Try to turn out all the lights.
+  D-Pad or IR to move
+  A to select
+  +/- to switch levels
+  More instructions available in-game
+  
+Changelog:
+
+v1.0 beta 5
+  Fixed some lag while using menu buttons
+    caused by unnecessary logging
+  Fixed broken animation on the main menu's
+    background
+  Added the background animation to all
+    screens in the game
+
+v1.0 beta 4
+  Added some (rough) instruction pages
+  Improved menu navigation
+  Puzzles are now loaded from
+   /apps/liightsout/data/puzzles.txt (you
+   can create your own puzzles by editing
+   this file!)
+  Added "Free Mode", allows you to freely
+   toggle single lights. Useful for designing
+   your own levels. No "save" function yet.
+   Enable by pressing the Two (or X) button.
+  Probably some other changes I can't think
+   of at the moment. :)
+
+v1.0 beta 3
+  Internal release
+
+v1.0 beta 2
+  First public beta
+</long_description>
+</app>
